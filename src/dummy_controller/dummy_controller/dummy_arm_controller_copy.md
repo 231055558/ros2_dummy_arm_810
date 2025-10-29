@@ -32,7 +32,7 @@ class JointTrajectoryActionServer(Node):
     
     # ✅ 电流限制配置 (单位: A)
     current_limits = {
-        'joint_1': 1.5,  # Joint1电流限制
+        'joint_1': 2.0,  # Joint1电流限制
         'joint_2': 3.0,  # Joint2电流限制 (负载最大)
         'joint_3': 3.0,  # Joint3电流限制
         'joint_4': 1.2,  # Joint4电流限制

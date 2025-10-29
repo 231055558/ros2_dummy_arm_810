@@ -35,7 +35,7 @@ class JointTrajectoryActionServer(Node):
         'joint_1': 1.5,  # Joint1电流限制
         'joint_2': 3.0,  # Joint2电流限制 (负载最大)
         'joint_3': 3.0,  # Joint3电流限制
-        'joint_4': 1.2,  # Joint4电流限制
+        'joint_4': 2.0,  # Joint4电流限制
         'joint_5': 1.5,  # Joint5电流限制
         'joint_6': 1.2,  # Joint6电流限制
         'hand': 0.5      # 夹爪电流限制

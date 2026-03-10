@@ -2,6 +2,7 @@
 ### 由于本项目重新烧录了末端含自制夹爪的主控固件，因此引用仓库中的程序不全适用，但一般不会对机械臂产生损害，可以部分参考
 
 > 木子改良版本的机械臂：https://gitee.com/switchpi/dummy.git [here](https://gitee.com/switchpi/dummy.git)!
+
 > hata8210配置的moveit接入：https://github.com/hata8210/dummy_moveit_ws.git [here](https://github.com/hata8210/dummy_moveit_ws.git)!
 
 # Dummy Robot Arm - ROS2 项目
